@@ -17,4 +17,4 @@ Some things about me:
 - 😄 Pronouns: He/Him/His
 - ⚡ Articles: 
 - 🌎 Other Profiles:
-
+![](backend_career.png)
