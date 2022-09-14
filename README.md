@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I am a Software Engineer with a Masters degree in Computer Software Engineering from Arizona State University. I have 5 years of work experience in the tech industry. My technical forte are back-end development, big-data, machine learning, designing software using design patterns and other industrial best practices, software architecture using MVC, Agile methodology etc.
+I am a Software Engineer with a Masters degree in Computer Science from Arizona State University. I have 5 years of work experience in the tech industry. My technical forte are back-end development, big-data, machine learning, designing software using design patterns and other industrial best practices, software architecture using MVC, Agile methodology etc.
 
-I am comfortable with: Java, Python, JavaScript, Express, Node, Android, Spark, SQL, C, C++. 
+I am comfortable with: Java ☕, Python 🐍, JavaScript, Express, NodeJS, Android, Spark, SQL, C, C++. 
 
 
 I'm flexible to pick up any technology, learn it and work with it in no time. You can check my projects [here](https://github.com/sachinaraballi?tab=repositories).
