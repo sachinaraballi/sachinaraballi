@@ -16,5 +16,6 @@ Some things about me:
 - 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/sachinaraballi/) or email me at [sachinaraballi@gmail.com](mailto:sachinaraballi@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Articles: 
+   - https://medium.com/@sachinaraballi/learn-dynamic-programming-using-coin-change-problem-1e9ce470c343
 - 🌎 Other Profiles:
 ![](backend_career.png)
