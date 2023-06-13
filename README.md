@@ -17,5 +17,6 @@ Some things about me:
 - 😄 Pronouns: He/Him/His
 - ⚡ Articles: 
    - https://medium.com/@sachinaraballi/learn-dynamic-programming-using-coin-change-problem-1e9ce470c343
-- 🌎 Other Profiles:
+- 🌎 My Tech Path:
+
 ![](backend_career.png)
